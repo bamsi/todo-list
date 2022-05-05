@@ -9,4 +9,4 @@ function update(item) {
   writeLocalStorage(items);
 }
 
-export {update};
+export { update };
